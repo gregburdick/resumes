@@ -1,2 +1,2 @@
 # resume
-Repository for my resume.
+Repository for my resumes.
